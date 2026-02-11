@@ -13,7 +13,7 @@ Reusable AI agent skills for vibe coding. Install with a single command to enhan
 ### Via [skills.sh](https://skills.sh)
 
 ```bash
-npx skills install matiaslbeltranu/agent-skills
+npx skills install Rohbunny01/powerapps-skills
 ```
 
 ### Manual Installation
